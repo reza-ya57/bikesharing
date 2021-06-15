@@ -34,7 +34,7 @@
 ### On the weekend 10 am to 7 pm are the pick time of using bike sharing service which should be for recreation and entertainment purpose. 
 ### Based on the user types and gender we can say Thursday and Friday and then monday and Tuesday are the pick time for male subscriber users during the week. 
 
-[link to dashboard](LINK GOES HERE "link to dashboard")
+[link to dashboard](https://public.tableau.com/app/profile/reza3007/viz/Module_14_16232979440360/BikeSharingStudy "link to dashboard")
 # Summary
 ## One of the major area which should be consider for runnign this program would be business restrict area. 
 ## We should add subscription method for bike sharing program with some promotion to get more loyal customer.
