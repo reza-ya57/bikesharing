@@ -18,6 +18,8 @@
 - Customer: which could be any users - usually torist can be categorized in this user type. 
 - Subscriber: which are the customers that have an account for bike-sharing program and borrow the bike regularly.
 
+[link to dashboard](https://public.tableau.com/app/profile/reza3007/viz/Module_14_16232979440360/Story2)
+
 ## We also analysed the data by users gender category
 - Male
 - Female
