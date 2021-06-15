@@ -14,11 +14,11 @@
 # Results
 
 ## By looking at the data we can say the most popular area in NYC for bike sharing program is Business district area. In this area users borrow the bike for less than 20 minutes which can be conclude that they usually use the bike sharing programm for communicating to work place. 
-## There are two type of users in this study. 
+## There are two types of the users in this study. 
 - Customer: which could be any users - usually torist can be categorized in this user type. 
 - Subscriber: which are the customers that have an account for bike-sharing program and borrow the bike regularly.
 
-## We also categorize the users based on genders
+## We also analysed the data by users gender category
 - Male
 - Female
 - Unknown
